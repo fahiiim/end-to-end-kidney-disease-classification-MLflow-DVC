@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+eggs/
+.eggs/
+*.egg
+
+# Virtual Environments
+venv/
+venv312/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data
+data/
+*.csv
+*.h5
+*.pkl
+*.pickle
+
+# MLflow
+mlruns/
+
+# DVC
+.dvc/cache
+.dvc/tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
